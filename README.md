@@ -1,2 +1,2 @@
 # Coffee rating prediction project
-A data science project, machine lerning.
+A data science project that predicts the success of a new coffee brand entering the market based on several parameters such as roast level, price, aroma, taste, aftertaste and more. In the project we used Jupyter and Python to perform web crawling, data cleaning and worked with various artificial intelligence and machine learning models to achieve the best results.
